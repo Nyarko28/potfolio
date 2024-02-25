@@ -1,0 +1,16 @@
+body{text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(webimages/b\ \(17\).jpg);
+    text
+}
+.all{
+    font-family:arial ;
+   
+    line-height: 25px;
+}
+h2{
+    text-align: center;
+}

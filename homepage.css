@@ -1,0 +1,12 @@
+.head{
+    display: flex;
+    gap: 5rem;
+    
+}
+.head h3 a{
+    text-decoration: none;
+
+}
+.head h3 a :hover{
+    transform: translate(23);
+}

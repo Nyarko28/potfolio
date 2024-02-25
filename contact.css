@@ -1,0 +1,53 @@
+.how{
+    text-align: center;
+    padding: 3px;
+}
+body{
+    background-image:url(webimages/pexels-bri-schneiter-346529.jpg);
+    text-align: center;
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.cont{
+    width: 30px;
+    height: 30px;
+}
+.call{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+
+.phone{
+    margin-top: 5px;
+    color:wheat;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color: hsla(204, 93%, 18%, 0.6);
+    font-size: large;
+    padding: 5px;
+    margin-top: 10%;
+}
+
+.email{
+    margin-top: 10%;
+    border-radius: 20px;
+    border: 1px solid;
+    background-color:hsla(204, 93%, 18%, 0.6);
+    font-size: large;
+    color:wheat;
+    padding: 5px;
+}
+.container{
+    backdrop-filter:blur ;
+    background-color: hsla(204, 93%, 18%, 0.6);
+    border-radius: 13px;
+    width: 500px;
+    height: 450px;
+    margin-left: 26%;
+    
+
+}
